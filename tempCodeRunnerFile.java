@@ -1,0 +1,1 @@
+            leftsum = leftsum + array[i];
